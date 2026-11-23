@@ -5,6 +5,7 @@ pymongo==4.18.3
 certifi
 scikit-learn
 pyaml
+mlflow
 
 
 # -e.
